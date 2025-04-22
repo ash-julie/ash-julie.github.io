@@ -1,6 +1,6 @@
 ---
 title: "What is NLP?"
-date: 2025-04-24
+date: 2025-04-22
 categories: [NLP]
 ---
 
